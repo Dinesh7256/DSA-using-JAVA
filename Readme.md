@@ -20,7 +20,7 @@ DAY -3  introduction to stack and heap memory , find the second largest element 
  -> how function returning value and other catching it
 
 DAY- 4
--> pass value and pass by reference 
+-> pass value and pass by reference
 -> formal and actual parameter 
 -> working of shalow and deep copy of array in memory stack
--> question of day rotation the array
+-> uqestion of day rotation the array
