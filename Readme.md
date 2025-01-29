@@ -24,3 +24,17 @@ DAY- 4
 -> formal and actual parameter 
 -> working of shalow and deep copy of array in memory stack
 -> uqestion of day rotation the array
+
+DAY-5
+-> Rotate array using optimal approach
+-> shift all even to left side and odd to right side in an array
+->  shift all zeros to left side and ones to right side in an array
+-> Introduction To 2D array
+-> Matrix Sum
+
+DAY - 6
+-> prefix Sum and suffix Sum
+-> Matrix Multiplication
+-> Transpose Matrix with extra matrix and Inplace as well
+-> Rotate matrix by 90 degree
+-> Pascal Triangle
